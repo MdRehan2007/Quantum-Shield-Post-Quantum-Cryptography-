@@ -3,7 +3,7 @@ Refer This Link : https://drive.google.com/drive/folders/1BT3YJhdxPzl__zQBzMZ_rq
 
 </div>
 
-# Run and deploy your AI Studio app
+# Run and deploy
 
 This contains everything you need to run your app locally.
 
